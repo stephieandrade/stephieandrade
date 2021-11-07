@@ -1,5 +1,6 @@
-### 👩    **About Me**
+![Bright Gradient Lettering Rainbow Facebook Cover](https://user-images.githubusercontent.com/37404936/140652482-04cf1f2b-879c-4df8-9275-5211d9a13d10.png)
 
+### 👩    **About Me**
 
 💻   Exploring new technologies and developing software solutions
 
