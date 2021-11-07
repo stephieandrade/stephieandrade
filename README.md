@@ -1,4 +1,6 @@
-![Bright Gradient Lettering Rainbow Facebook Cover](https://user-images.githubusercontent.com/37404936/140652482-04cf1f2b-879c-4df8-9275-5211d9a13d10.png)
+<p align="center">
+     <img src="https://user-images.githubusercontent.com/37404936/140653115-0e6aa15d-92aa-42e7-8fc6-43c7d9d52abe.PNG" alt="Portada" />
+</p>
 
 ### 👩    **About Me**
 
