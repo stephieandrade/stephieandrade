@@ -6,9 +6,10 @@
 
 💻   Exploring new technologies and developing software solutions
 
-🎓   -✨Studied 3 years Bioinformatics(Data Science training)
-     -✨Certified Tech Developer(Fullstack training)
-     -✨Self learner
+### 🎓   **Education**
+- ✨Studied 3 years Bioinformatics(Data Science training)
+- ✨Certified Tech Developer(Fullstack training)
+- ✨Self learner
 
 🌱   Learning about Databases Managment, Data Science, Data Engineer
 
