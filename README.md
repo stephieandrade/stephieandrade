@@ -2,7 +2,7 @@
      <img src="https://user-images.githubusercontent.com/37404936/140653403-3e22067b-a283-4537-b413-1ccfbded097d.PNG" alt="Portada" />
 </p>
 
-### 👩    **About Me**
+###    **About Me**
 
 💻   Exploring new technologies and developing software solutions
 
@@ -31,6 +31,6 @@
 
 💻 Linkedin: https://www.linkedin.com/in/stephanie-andrade/ 
 
-✉ Mail: ayeandrade@live.com.ar 
+✉ Mail: ayesandrade@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephieandrade&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
