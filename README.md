@@ -29,7 +29,9 @@
 ### **Connect with me**
 
 
-💻 Linkedin: https://www.linkedin.com/in/stephanie-andrade/ 
+🔍 Linkedin: https://www.linkedin.com/in/stephanie-andrade/ 
+
+💻 Portfolio: https://ayesandrade.wixsite.com/my-site
 
 ✉ Mail: ayesandrade@gmail.com
 
