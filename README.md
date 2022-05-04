@@ -16,7 +16,7 @@
 ✍️   Pursuing Guitar Playing/Singing/Running as hobbies/side hustles
 
 ### 🛠 **Tech Stack**
-💻   Python | Java | MySQL
+💻   Python | Java | Spring Boot | MySQL | MongoDB
 
 🌐   HTML | CSS | JavaScript | ReactJS
 
