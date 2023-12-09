@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://user-images.githubusercontent.com/37404936/140653403-3e22067b-a283-4537-b413-1ccfbded097d.PNG" alt="Portada" />
+     <img src="https://github.com/stephieandrade/stephieandrade/assets/37404936/c2cfd314-6445-475b-960e-18c7cf02c9be" alt="Portada" />
 </p>
 
 ###    **About Me**
@@ -7,8 +7,9 @@
 💻   Exploring new technologies and developing software solutions
 
 ### 🎓   **Education**
-- ✨Studied 3 years Bioinformatics(Data Science training)
+- ✨Bioinformatics(Data Science training)
 - ✨Certified Tech Developer(Fullstack training)
+- ✨Professional Scrum Product Owner(Scrum.org)
 - ✨Self learner
 
 🌱   Enthusiast about Product Managment, Data Engineer, Data Science
