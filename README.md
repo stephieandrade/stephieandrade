@@ -11,16 +11,15 @@
 - ✨Certified Tech Developer(Fullstack training)
 - ✨Self learner
 
-🌱   Learning about Databases Managment, Data Science, Data Engineer
+🌱   Enthusiast about Product Managment, Data Engineer, Data Science
 
 ✍️   Pursuing Guitar Playing/Singing/Running as hobbies/side hustles
 
 ### 🛠 **Tech Stack**
-💻   Python | Java | Spring Boot | MySQL | MongoDB
+💻   Python | Java | Spring Boot | MySQL | Oracle | MongoDB 
 
-🌐   HTML | CSS | JavaScript | ReactJS
+🌐   HTML | CSS | JavaScript | ReactJS | Vaadin
 
-### 🛠 **To Learn more**
 🔧   AWS | Docker🐳 
 
 
