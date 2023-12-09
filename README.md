@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="https://github.com/stephieandrade/stephieandrade/assets/37404936/c2cfd314-6445-475b-960e-18c7cf02c9be" alt="Portada" />
+     <img src="https://github.com/stephieandrade/stephieandrade/assets/37404936/26d38519-8654-4dc9-a257-8bba5f4e074e" alt="Portada" />
 </p>
 
 ###    **About Me**
